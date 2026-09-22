@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Nikki Ram
 
-### AI & Machine Learning Undergraduate | Python Developer | Data Analyst
+### AI & Machine Learning graduate | Python Developer | Data Analyst | Data Analyst | Data Engineer
 
 </div>
 

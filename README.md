@@ -10,7 +10,7 @@
 
 ## 🙋 About Me
 
-- 🎓 BE in Artificial Intelligence and Machine Learning, Alard College of Engineering & Management, Pune (2022–2026)
+- 🎓 BE in Artificial Intelligence and Machine Learning, Alard College of Engineering & Management, Pune (2022–2026)-CGPA: 8+
 - 💼 Content & Data Analyst Intern | AI/ML Data Analyst Intern
 - 🌱 Currently building an AI-Powered PPE Detection System
 - 🚀 Passionate about Machine Learning, Computer Vision, and Data Analysis

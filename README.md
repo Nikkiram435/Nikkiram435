@@ -24,7 +24,7 @@
 Python • SQL • HTML • CSS • JavaScript
 
 ### 🤖 AI / Machine Learning
-TensorFlow • Keras • OpenCV • Scikit-learn • YOLOv8  • LLM • GenAI • CNN • NLP
+TensorFlow • Keras • OpenCV • Scikit-learn • YOLOv8  • LLM • GenAI • CNN 
 
 ### 📊 Data
 Pandas • NumPy • MySQL 

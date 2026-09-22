@@ -1,44 +1,67 @@
-Hi 👋, I'm Nikki Ram
+# Hi 👋, I'm Nikki Ram
 
-AI & Machine Learning Undergraduate | Python Developer | Data Analyst
+### AI & Machine Learning Undergraduate | Python Developer | Data Analyst
 
-🙋 About Me
-- 🎓 BE in Artificial Intelligence and Machine Learning, Alard College of Engineering & Management, Pune (2022–2026)
+---
+
+## 🙋 About Me
+
+- 🎓 BE in Artificial Intelligence and Machine Learning
 - 💼 Content & Data Analyst Intern | AI/ML Data Analyst Intern
 - 🌱 Currently building an AI-Powered PPE Detection System
 - 🚀 Passionate about Machine Learning, Computer Vision, and Data Analysis
 - 🤖 Interested in Deep Learning and Real-World AI Applications
 
-🛠 Tech Stack
+---
 
-Languages: Python • SQL • HTML • CSS • JavaScript
+## 🛠 Tech Stack
 
-AI/ML: TensorFlow • Keras • OpenCV • Scikit-learn • YOLOv8
+### 👨‍💻 Languages
+Python • SQL • HTML • CSS • JavaScript
 
-Data: Pandas • NumPy • MySQL
+### 🤖 AI / Machine Learning
+TensorFlow • Keras • OpenCV • Scikit-learn • YOLOv8
 
-Tools: Git • GitHub • VS Code • Streamlit • Jupyter Notebook
+### 📊 Data
+Pandas • NumPy • MySQL
 
-🚀 Featured Projects
+### 🔧 Tools
+Git • GitHub • VS Code • Streamlit • Jupyter Notebook
 
-🦺 AI-Powered PPE Detection System
-A real-time AI-powered system using YOLOv8 and OpenCV to detect safety gear compliance and send automated alerts for workplace safety.
+---
 
-🌧️ Smart Gutter Management System
-An IoT-based system using ESP32 and sensors to monitor drainage in real time and detect blockages to prevent flooding.
+## 🚀 Featured Projects
 
-🏨 Hotel Management System
-A desktop application built with Python and Tkinter to manage customer registration, room booking, and billing.
+### 🦺 AI-Powered PPE Detection System
 
-🎙️ Noha.AI
+A real-time AI-powered system using YOLOv8 and OpenCV to detect
+safety gear compliance and send automated alerts for workplace safety.
+
+### 🌧️ Smart Gutter Management System
+
+An IoT-based system using ESP32 and sensors to monitor drainage
+in real time and detect blockages to prevent flooding.
+
+### 🏨 Hotel Management System
+
+A desktop application built with Python and Tkinter to manage
+customer registration, room booking, and billing.
+
+### 🎙️ Noha.AI
+
 A voice assistant built using Python to automate daily tasks.
 
-📫 Connect With Me
+---
 
-LinkedIn: https://www.linkedin.com/in/nikki-ram-339244289/
+## 📊 GitHub Stats
 
-Email: ramnikki435@gmail.com
+<!-- stats yahan add karenge -->
 
-LeetCode: https://leetcode.com/u/Nikki0403/
+---
 
-HackerRank: https://www.hackerrank.com/profile/ramnikki435
+## 📫 Connect With Me
+
+🔗 LinkedIn  
+📧 Email  
+
+🏆 HackerRank

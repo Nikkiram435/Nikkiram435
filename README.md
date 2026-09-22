@@ -24,10 +24,10 @@
 Python • SQL • HTML • CSS • JavaScript
 
 ### 🤖 AI / Machine Learning
-TensorFlow • Keras • OpenCV • Scikit-learn • YOLOv8
+TensorFlow • Keras • OpenCV • Scikit-learn • YOLOv8  • LLM • GenAI • CNN • NLP
 
 ### 📊 Data
-Pandas • NumPy • MySQL
+Pandas • NumPy • MySQL 
 
 ### 🔧 Tools
 Git • GitHub • VS Code • Streamlit • Jupyter Notebook
@@ -64,6 +64,3 @@ An AI-powered misinformation and content analysis project designed to help users
 
 📧 Email: ramnikki435@gmail.com
 
-💻 LeetCode: https://leetcode.com/u/Nikki0403/
-
-🏆 HackerRank: https://www.hackerrank.com/profile/ramnikki435
